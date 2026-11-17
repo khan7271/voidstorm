@@ -1,0 +1,1 @@
+{"description":"VOIDSTORM — a neon arena space shooter. Entry for make.fun best-game-01.","name":"voidstorm","private":true,"scripts":{"build":"node main.ts","start":"node serve.ts"},"type":"module","version":"1.0.0"}
